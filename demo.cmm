@@ -1,9 +1,8 @@
 Emails  := foo@gmail.com bar@gmail.com baz@gmail.com
-Subject := "Test Subject"
-From    := "Test sender"
+Subject := Test Subject
+From    := Test sender
 n       := 100
 
-
 BEGIN
-To {Email}:
+From {From}, to {Email}:
     This is email number {n} that has been sent to you.
