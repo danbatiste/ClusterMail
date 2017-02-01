@@ -1,6 +1,6 @@
 # ClusterMail
 Email spammer with domain-specific language for the purpose of creating custom macros.
-Compatible with Python version 2.x and 3.x.
+Compatible with Python versions 2.x and 3.x.
 
 # Getting Started
 #### Installation
