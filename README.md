@@ -8,6 +8,7 @@ Compatible with Python versions 2.x and 3.x.
 
 #### Usage
 ClusterMail can be run from the command line as follows.
+
 `python ClusterMail.py CMM_path SMTP_server SMTP_port email password`
 
 It can also be run directly, and if so will prompt the user to enter the above arguments.
